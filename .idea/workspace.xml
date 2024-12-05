@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25cc8a3d-c3f0-48ec-9194-3fe22ce3a346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brabus 700.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Presenstation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ООП1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/магазин мороженого.py" afterDir="false" />
-    </list>
+    <list default="true" id="25cc8a3d-c3f0-48ec-9194-3fe22ce3a346" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,10 +40,12 @@
     "Python.class.executor": "Run",
     "Python.classes.executor": "Run",
     "Python.dz1.executor": "Run",
+    "Python.timeclass.executor": "Run",
     "Python.ООП1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/Desktop/Bayas",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
