@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25cc8a3d-c3f0-48ec-9194-3fe22ce3a346" name="Changes" comment="" />
+    <list default="true" id="25cc8a3d-c3f0-48ec-9194-3fe22ce3a346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_bayastan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +44,7 @@
     "Python.class.executor": "Run",
     "Python.classes.executor": "Run",
     "Python.dz1.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.timeclass.executor": "Run",
     "Python.ООП1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
